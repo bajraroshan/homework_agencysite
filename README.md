@@ -4,7 +4,7 @@
 This is the basic site for Digital Agency "Horiseon" regarding the service that the company provides to the general public. The language used in this particular site are HTML and CSS. The major services of Horiseon Digital Agency is Search Engine Optimization, Online Reputation Management and Social Media Marketing. It also provide Lead generation, Brand Awareness and Cost Management.
 
 ## Demo
-[alt text](assets/images/site-screenshot.png)
+[Site Screenshot](assets/images/site-screenshot.png)
 
 ## Important Links
 Github Page: https://bajraroshan.github.io/homework_agencysite/<br/>
